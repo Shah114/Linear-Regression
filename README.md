@@ -28,8 +28,7 @@ There are two main types of linear regression:
 
 This is the simplest form of linear regression, and it involves only one independent variable and one dependent variable. The equation for simple linear regression is:
 
-𝑦
-=
+𝑦 =
 𝛽`0`
 +
 𝛽`1`
