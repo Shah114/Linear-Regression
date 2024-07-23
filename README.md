@@ -47,7 +47,7 @@ where:
 
 <br/>
 
-**Multiple Linear Regression**
+**Multiple Linear Regression** <br/>
 This involves more than one independent variable and one dependent variable. The equation for multiple linear regression is:
 
 𝑦 =
