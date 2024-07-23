@@ -45,3 +45,36 @@ where:
 
 * β1 is the slope
 
+<br/>
+
+**Multiple Linear Regression**
+This involves more than one independent variable and one dependent variable. The equation for multiple linear regression is:
+
+𝑦 =
+𝛽
+0
++
+𝛽
+1
+𝑋
++
+𝛽
+2
+𝑋
++
+…
+…
+…
+𝛽
+𝑛
+where:
+
+* Y is the dependent variable
+
+* X1, X2, …, Xp are the independent variables
+
+* β0 is the intercept
+
+* β1, β2, …, βn are the slopes
+
+
