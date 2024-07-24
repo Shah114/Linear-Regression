@@ -97,5 +97,13 @@ Description: Stochastic Gradient Descent updates the model parameters using the 
 **Cons:** <br/>
 * Convergence path is noisy, which can lead to oscillations around the minimum.
 * May not reach the exact global minimum but rather oscillate around it.
+3. Mini-batch Gradient Descent <br/>
+Description: Mini-batch Gradient Descent is a compromise between Batch Gradient Descent and Stochastic Gradient Descent. It updates the model parameters using a small batch of training examples. <br/>
+**Pros:** <br/>
+* Reduces the variance of parameter updates, leading to more stable convergence.
+* Allows for vectorization, which can speed up computations.
+* Requires less memory than Batch Gradient Descent but more than Stochastic Gradient Descent. <br/>
+**Cons:** <br/>
+* The choice of batch size can affect the performance and convergence speed.
 
 
