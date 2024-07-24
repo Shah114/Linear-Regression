@@ -81,11 +81,11 @@ where:
 Gradient descent is an optimization algorithm used to minimize the loss function in machine learning and deep learning models. There are several variations of gradient descent, each with its own advantages and drawbacks. Here are the main types:
 
 1. Batch Gradient Descent (BGD) <br/>
-Description: In Batch Gradient Descent, the entire dataset is used to compute the gradient of the loss function with respect to the model parameters.
-Pros: <br/>
+Description: In Batch Gradient Descent, the entire dataset is used to compute the gradient of the loss function with respect to the model parameters. <br/>
+**Pros:** <br/>
 * Converges to the global minimum for convex functions.
 * Provides a stable convergence path. <br/>
-Cons: <br/>
+**Cons:** <br/>
 * Requires a lot of memory as it needs to store the entire dataset in memory.
 * Can be slow, especially for large datasets. <br/>
 
