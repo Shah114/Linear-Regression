@@ -88,5 +88,14 @@ Description: In Batch Gradient Descent, the entire dataset is used to compute th
 **Cons:** <br/>
 * Requires a lot of memory as it needs to store the entire dataset in memory.
 * Can be slow, especially for large datasets. <br/>
+2. Stochastic Gradient Descent (SGD) <br/>
+Description: Stochastic Gradient Descent updates the model parameters using the gradient of the loss function for each training example individually. <br/>
+**Pros:** <br/>
+* Faster than Batch Gradient Descent as it updates more frequently.
+* Requires less memory since it uses one training example at a time.
+* Helps escape local minima due to its stochastic nature. <br/>
+**Cons:** <br/>
+* Convergence path is noisy, which can lead to oscillations around the minimum.
+* May not reach the exact global minimum but rather oscillate around it.
 
 
