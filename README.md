@@ -75,6 +75,7 @@ where:
 
 * β0 is the intercept
 
-* β1, β2, …, βn are the slopes
+* β1, β2, …, βn are the slopes <br/>
+<br/>
 
 
