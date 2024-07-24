@@ -82,7 +82,7 @@ Gradient descent is an optimization algorithm used to minimize the loss function
 
 1. Batch Gradient Descent (BGD) <br/>
 Description: In Batch Gradient Descent, the entire dataset is used to compute the gradient of the loss function with respect to the model parameters. <br/>
-**Pros:** <br/>
+**Pros:** 
 * Converges to the global minimum for convex functions.
 * Provides a stable convergence path. <br/>
 **Cons:** <br/>
